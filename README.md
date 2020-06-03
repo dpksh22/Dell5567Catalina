@@ -1,4 +1,4 @@
-# Dell 5567 Catalina 15.5.5
+# Dell 5567 Catalina 10.15.5
 Completely working hackintosh Catalina Dell Inspiron 5567 
 
 Processor Information
