@@ -40,5 +40,7 @@ set to Disabled : setup_var 0x4DE 0x0
 Interrupt mode
 set to GPIO Interrupt : setup_var 0x272 0x0
 
+BUG
+3.5mm Jack audio
 
 
