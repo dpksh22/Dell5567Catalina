@@ -13,11 +13,17 @@ L1 Data Cache	32.0 KB x 2
 L2 Cache	256 KB x 2
 L3 Cache	3.00 MB x 1
 
-Geekbench 5.1.1 Tryout for macOS x86 (64-bit)               Geekbench 5.1.1 Tryout for Windows x86 (64-bit)
+Geekbench 5.1.1 Tryout for macOS x86 (64-bit)              
 
-Single-Core Score 747                                       Single-Core Score 791
+Single-Core Score 747                                      
 
-Multi-Core Score  1755                                      Multi-Core Score  1836
+Multi-Core Score  1755                                     
+
+Geekbench 5.1.1 Tryout for Windows x86 (64-bit)
+
+Single-Core Score 791
+ 
+Multi-Core Score  1836
 
 
 BIOS MOD
